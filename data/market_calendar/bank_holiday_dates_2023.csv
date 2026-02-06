@@ -1,0 +1,26 @@
+﻿date,country,holiday_name,is_bank
+2023-01-01,ethiopia,New Year's Day,1
+2023-01-06,ethiopia,Orthodox Christmas Eve,0
+2023-01-07,ethiopia,Orthodox Christmas Day,1
+2023-01-19,ethiopia,Orthodox Epiphany,1
+2023-03-02,ethiopia,Victory at Adwa Day,0
+2023-03-20,ethiopia,March Equinox,1
+2023-03-22,ethiopia,First Day of Ramadan,0
+2023-04-14,ethiopia,Orthodox Good Friday,1
+2023-04-16,ethiopia,Orthodox Easter,0
+2023-04-21,ethiopia,Festival of Breaking the Fast,1
+2023-05-01,ethiopia,International Workers' Day,0
+2023-05-05,ethiopia,Ethiopian Patriots Victory Day,1
+2023-05-14,ethiopia,Mother's Day,0
+2023-05-28,ethiopia,Derg Downfall Day,0
+2023-06-18,ethiopia,Father's Day,1
+2023-06-21,ethiopia,June Solstice,1
+2023-06-28,ethiopia,Feast of the Sacrifice,0
+2023-07-18,ethiopia,Islamic New Year's Day,1
+2023-09-11,ethiopia,Ethiopian New Year's Eve,1
+2023-09-12,ethiopia,Ethiopian New Year's Day,0
+2023-09-23,ethiopia,September Equinox,1
+2023-09-26,ethiopia,Birth of the Prophet,0
+2023-09-28,ethiopia,Finding of the True Cross,1
+2023-12-22,ethiopia,December Solstice,0
+2023-12-31,ethiopia,New Year's Eve,0

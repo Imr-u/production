@@ -1,3 +1,5 @@
+# Raw_schema
+
 ``` python
 {
     "rate_date": "date",  # Date rate applies to

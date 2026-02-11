@@ -1,0 +1,119 @@
+﻿date,country,holiday_name,is_bank
+1/1/2025,egypt,New Year's Day,1
+1/6/2025,egypt,Orthodox Christmas Eve,0
+1/7/2025,egypt,Orthodox Christmas Day,1
+1/25/2025,egypt,Revolution Day January 25,1
+3/20/2025,egypt,March Equinox,0
+3/31/2025,egypt,Festival of Breaking the Fast,1
+4/1/2025,egypt,Second Day of the Festival of Breaking the Fast,1
+4/2/2025,egypt,Third Day of the Festival of Breaking the Fast,1
+4/20/2025,egypt,Orthodox Easter,1
+4/21/2025,egypt,Spring Festival,1
+4/25/2025,egypt,Sinai Liberation Day,1
+5/1/2025,egypt,Labor Day,0
+6/5/2025,egypt,Arafat Day,0
+6/6/2025,egypt,Feast of the Sacrifice,0
+6/7/2025,egypt,Second Day of the Feast of the Sacrifice,0
+6/8/2025,egypt,Third Day of the Feast of the Sacrifice,0
+6/21/2025,egypt,June Solstice,0
+6/26/2025,egypt,Islamic New Year's Day,1
+6/30/2025,egypt,Revolution Day June 30,0
+7/3/2025,egypt,Revolution Day June 30 (Observed),0
+7/23/2025,egypt,Revolution Day July 23,0
+9/4/2025,egypt,Birth of the Prophet,0
+9/22/2025,egypt,September Equinox,0
+10/6/2025,egypt,Armed Forces Day,0
+10/9/2025,egypt,Armed Forces Day (Observed),0
+12/21/2025,egypt,December Solstice,0
+12/31/2025,egypt,New Year's Eve,0
+1/1/2025,ethiopia,New Year's Day,1
+1/6/2025,ethiopia,Orthodox Christmas Eve,0
+1/7/2025,ethiopia,Orthodox Christmas Day,1
+1/19/2025,ethiopia,Orthodox Epiphany,1
+2/28/2025,ethiopia,First Day of Ramadan,0
+3/2/2025,ethiopia,Victory at Adwa Day,1
+3/20/2025,ethiopia,March Equinox,0
+3/30/2025,ethiopia,Festival of Breaking the Fast,1
+4/18/2025,ethiopia,Orthodox Good Friday,0
+4/20/2025,ethiopia,Orthodox Easter,1
+5/1/2025,ethiopia,International Workers' Day,0
+5/5/2025,ethiopia,Ethiopian Patriots Victory Day,1
+5/11/2025,ethiopia,Mother's Day,0
+5/28/2025,ethiopia,Derg Downfall Day,0
+6/6/2025,ethiopia,Feast of the Sacrifice,1
+6/15/2025,ethiopia,Father's Day,1
+6/21/2025,ethiopia,June Solstice,0
+6/26/2025,ethiopia,Islamic New Year's Day,1
+9/4/2025,ethiopia,Birth of the Prophet,1
+9/10/2025,ethiopia,Ethiopian New Year's Eve,0
+9/11/2025,ethiopia,Ethiopian New Year's Day,1
+9/22/2025,ethiopia,September Equinox,0
+9/27/2025,ethiopia,Finding of the True Cross,1
+12/21/2025,ethiopia,December Solstice,0
+12/31/2025,ethiopia,New Year's Eve,0
+1/1/2025,algeria,New Year's Day,0
+1/12/2025,algeria,Amazigh New Year's Day,1
+2/22/2025,algeria,Fraternity and Cohesion Day,1
+3/20/2025,algeria,Festival of Breaking the Fast,0
+3/31/2025,algeria,March Equinox,0
+5/1/2025,algeria,Labor Day,0
+5/25/2025,algeria,Feast of the Sacrifice,0
+6/7/2025,algeria,Mother's Day,1
+6/15/2025,algeria,Islamic New Year's Day,0
+6/21/2025,algeria,Father's Day,0
+6/27/2025,algeria,June Solstice,0
+7/5/2025,algeria,Ashura,0
+7/5/2025,algeria,Independence Day,0
+9/5/2025,algeria,Birth of the Prophet,1
+9/22/2025,algeria,September Equinox,0
+11/1/2025,algeria,Revolution Day,0
+12/21/2025,algeria,December Solstice,1
+12/31/2025,algeria,New Year's Eve,0
+1/1/2025,zambia,New Year's Day,1
+3/3/2025,zambia,International Women's Day,0
+3/12/2025,zambia,Youth Day,1
+3/20/2025,zambia,March Equinox,0
+4/18/2025,zambia,Good Friday,0
+4/19/2025,zambia,Holy Saturday,0
+4/20/2025,zambia,Easter,0
+4/21/2025,zambia,Easter Monday,0
+5/1/2025,zambia,Labor Day,1
+5/11/2025,zambia,Mother's Day,0
+5/25/2025,zambia,Africa Day,0
+6/15/2025,zambia,Father's Day,0
+6/21/2025,zambia,June Solstice,0
+7/7/2025,zambia,Heroes' Day,1
+7/8/2025,zambia,Unity Day,0
+8/4/2025,zambia,Farmers' Day,1
+9/22/2025,zambia,September Equinox,0
+10/13/2025,zambia,National Prayer Day,0
+10/24/2025,zambia,Independence Day,1
+12/21/2025,zambia,December Solstice,0
+12/24/2025,zambia,Christmas Eve,0
+12/25/2025,zambia,Christmas Day,1
+12/31/2025,zambia,New Year's Eve,0
+1/1/2025,Wednesday,New Year's Day,0
+3/8/2025,Saturday,Women's Day,0
+3/20/2025,Thursday,March Equinox,1
+3/30/2025,Sunday,Mother's Day,0
+3/31/2025,Monday,Festival of Breaking the Fast,0
+4/18/2025,Friday,Good Friday,0
+4/19/2025,Saturday,Holy Saturday,0
+4/20/2025,Sunday,Easter,0
+4/21/2025,Monday,Easter Monday,0
+5/1/2025,Thursday,Workers' Day,0
+5/27/2025,Tuesday,Children's Day,0
+6/7/2025,Saturday,Feast of the Sacrifice,0
+6/12/2025,Thursday,Democracy Day,0
+6/15/2025,Sunday,Father's Day,0
+6/21/2025,Saturday,June Solstice,0
+6/27/2025,Friday,Islamic New Year's Day,0
+9/5/2025,Friday,Birth of the Prophet,0
+9/22/2025,Monday,September Equinox,0
+10/1/2025,Wednesday,Independence Day,0
+12/21/2025,Sunday,December Solstice,0
+12/22/2025,Monday,Sembah Memorial Day,0
+12/24/2025,Wednesday,Christmas Eve,0
+12/25/2025,Thursday,Christmas Day,0
+12/26/2025,Friday,Boxing Day,0
+12/31/2025,Wednesday,New Year's Eve,0

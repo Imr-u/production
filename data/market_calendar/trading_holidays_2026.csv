@@ -1,0 +1,121 @@
+date,country,name,is_bank
+1/1/2026,algeria,New Year's Day,0
+1/12/2026,algeria,Amazigh New Year’s Day,1
+2/22/2026,algeria,Fraternity and Cohesion Day,1
+3/20/2026,algeria,Festival of Breaking the Fast,0
+3/20/2026,algeria,March Equinox,0
+5/1/2026,algeria,Labor Day,0
+5/28/2026,algeria,Feast of the Sacrifice,0
+5/31/2026,algeria,Mother’s Day,1
+6/16/2026,algeria,Islamic New Year’s Day,0
+6/21/2026,algeria,Father’s Day,0
+6/21/2026,algeria,June Solstice,0
+6/26/2026,algeria,Ashura,0
+7/5/2026,algeria,Independence Day,0
+8/25/2026,algeria,Birth of the Prophet,1
+9/23/2026,algeria,September Equinox,0
+11/1/2026,algeria,Revolution Day,0
+12/21/2026,algeria,December Solstice,1
+12/31/2026,algeria,New Year's Eve,0
+1/1/2026,egypt,New Year's Day,1
+1/6/2026,egypt,Orthodox Christmas Eve,0
+1/7/2026,egypt,Orthodox Christmas Day,1
+1/25/2026,egypt,Revolution Day January 25,1
+1/29/2026,egypt,Revolution Day January 25 (Observed),0
+3/20/2026,egypt,March Equinox,0
+3/21/2026,egypt,Festival of Breaking the Fast,1
+3/22/2026,egypt,Second Day of the Festival of Breaking the Fast,1
+3/23/2026,egypt,Third Day of the Festival of Breaking the Fast,1
+4/12/2026,egypt,Orthodox Easter,1
+4/13/2026,egypt,Spring Festival,1
+4/25/2026,egypt,Sinai Liberation Day,0
+5/1/2026,egypt,Labor Day,0
+5/26/2026,egypt,Arafat Day,0
+5/27/2026,egypt,Feast of the Sacrifice,0
+5/28/2026,egypt,Second Day of the Feast of the Sacrifice,0
+5/29/2026,egypt,Third Day of the Feast of the Sacrifice,0
+6/21/2025,egypt,June Solstice,0
+6/26/2025,egypt,Islamic New Year's Day,1
+6/30/2025,egypt,Revolution Day June 30,0
+7/3/2025,egypt,Revolution Day June 30 (Observed),0
+7/23/2025,egypt,Revolution Day July 23,0
+9/4/2025,egypt,Birth of the Prophet,0
+9/22/2025,egypt,September Equinox,0
+10/6/2025,egypt,Armed Forces Day,0
+10/9/2025,egypt,Armed Forces Day (Observed),0
+12/21/2025,egypt,December Solstice,0
+12/31/2025,egypt,New Year's Eve,0
+1/1/2026,ethiopia,New Year's Day,1
+1/6/2026,ethiopia,Orthodox Christmas Eve,0
+1/7/2026,ethiopia,Orthodox Christmas Day,1
+1/19/2026,ethiopia,Orthodox Epiphany,1
+2/17/2026,ethiopia,First Day of Ramadan,0
+3/2/2026,ethiopia,Victory at Adwa Day,1
+3/19/2026,ethiopia,Festival of Breaking the Fast,0
+3/20/2026,ethiopia,March Equinox,1
+4/10/2026,ethiopia,Orthodox Good Friday,0
+4/12/2026,ethiopia,Orthodox Easter,1
+5/1/2026,ethiopia,International Workers' Day,0
+5/5/2026,ethiopia,Ethiopian Patriots Victory Day,1
+5/10/2026,ethiopia,Mother's Day,0
+5/26/2026,ethiopia,Feast of the Sacrifice,0
+5/28/2026,ethiopia,Derg Downfall Day,1
+6/16/2026,ethiopia,Islamic New Year's Day,1
+6/21/2026,ethiopia,Father's Day,0
+6/21/2026,ethiopia,June Solstice,1
+8/25/2026,ethiopia,Birth of the Prophet,1
+9/10/2026,ethiopia,Ethiopian New Year's Eve,0
+9/11/2026,ethiopia,Ethiopian New Year's Day,1
+9/23/2026,ethiopia,September Equinox,0
+9/27/2026,ethiopia,Finding of the True Cross,1
+12/21/2026,ethiopia,December Solstice,0
+12/31/2026,ethiopia,New Year's Eve,0
+1/1/2026,zambia,New Year's Day,1
+3/8/2026,zambia,International Women's Day,0
+3/12/2026,zambia,Youth Day,1
+3/20/2026,zambia,March Equinox,0
+4/3/2026,zambia,Good Friday,0
+4/4/2026,zambia,Holy Saturday,0
+4/5/2026,zambia,Easter,0
+4/6/2026,zambia,Easter Monday,0
+5/1/2026,zambia,Labor Day,1
+5/10/2026,zambia,Mother's Day,0
+5/25/2026,zambia,Africa Day,0
+6/21/2026,zambia,Father's Day,0
+6/27/2026,zambia,June Solstice,0
+7/7/2026,zambia,Heroes' Day,1
+7/8/2026,zambia,Unity Day,0
+8/5/2026,zambia,Farmers' Day,1
+9/23/2026,zambia,September Equinox,0
+10/18/2026,zambia,National Prayer Day,0
+10/24/2026,zambia,Independence Day,1
+12/21/2026,zambia,December Solstice,0
+12/24/2026,zambia,Christmas Eve,0
+12/25/2026,zambia,Christmas Day,1
+12/31/2026,zambia,New Year's Eve,0
+1/1/2026,nigeria,New Year's Day,0
+3/8/2026,nigeria,Women's Day,0
+3/15/2026,nigeria,March Equinox,1
+3/20/2026,nigeria,Mother's Day,0
+3/20/2026,nigeria,Festival of Breaking the Fast,0
+4/3/2026,nigeria,Good Friday,0
+4/4/2026,nigeria,Holy Saturday,0
+4/5/2026,nigeria,Easter,0
+4/6/2026,nigeria,Easter Monday,0
+5/1/2026,nigeria,Workers' Day,0
+5/27/2026,nigeria,Children's Day,0
+5/28/2026,nigeria,Feast of the Sacrifice,0
+6/12/2026,nigeria,Democracy Day,0
+6/16/2026,nigeria,Father's Day,0
+6/21/2026,nigeria,June Solstice,0
+6/21/2026,nigeria,Islamic New Year's Day,0
+8/25/2026,nigeria,Birth of the Prophet,0
+9/23/2026,nigeria,September Equinox,0
+10/1/2026,nigeria,Independence Day,0
+12/21/2026,nigeria,December Solstice,0
+12/22/2026,nigeria,Sembah Memorial Day,0
+12/24/2026,nigeria,Christmas Eve,0
+12/25/2026,nigeria,Christmas Day,0
+12/26/2026,nigeria,Boxing Day,0
+12/28/2026,nigeria,boxing day (observed),0
+12/31/2026,nigeria,New Year's Eve,0
